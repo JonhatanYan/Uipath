@@ -1,0 +1,25 @@
+name: Send Email on Commit
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  send_email:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Send email
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 587
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
+          subject: "Novo commit no repositório UiPath"
+          to: "seuemail@gmail.com"
+          from: ${{ secrets.MAIL_USERNAME }}
+          body: "Um novo commit foi realizado no repositório."
