@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="vcPNq8nxvk6GKI4Aoeu9rw" Reference="Q8kMT-eXZ0iX20FXGraQpg/CW-PMZlVNU--wWroMS8BtA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="instagram.com" CVScreenId="c7c6e0b2-3cfb-4a5c-ac77-a47b94c10b3c" CvElementArea="1114, 484, 275, 40" CvType="InputBox" DesignTimeRectangle="1126, 487, 252, 36" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='Senha' tag='SPAN' /&gt;" Guid="41c00b61-af8b-41eb-9dca-828645751560" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Instagram' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.PointOffset>
+        <PointOffset Position="BottomLeft" X="13" Y="-15" />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="dee7cf6ecb774bd82d934dee718153d3.png" xmlns="">0wKWCZDOSJ02ffgXQmXaipQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

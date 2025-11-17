@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Instagram",
+  "Type": "Screen",
+  "Id": "2CiFShOceESX-fH7pdwxiA",
+  "Reference": "Q8kMT-eXZ0iX20FXGraQpg/2CiFShOceESX-fH7pdwxiA",
+  "ParentRef": "Q8kMT-eXZ0iX20FXGraQpg/DWgeQvMVkUWvYy66c9930Q",
+  "Created": "2025-11-04T00:38:52.4293756Z",
+  "Updated": "2025-11-04T00:38:52.4293756Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.19.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

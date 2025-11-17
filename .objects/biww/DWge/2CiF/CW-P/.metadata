@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Senha(1)",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "CW-PMZlVNU--wWroMS8BtA",
+  "Reference": "Q8kMT-eXZ0iX20FXGraQpg/CW-PMZlVNU--wWroMS8BtA",
+  "ParentRef": "Q8kMT-eXZ0iX20FXGraQpg/2CiFShOceESX-fH7pdwxiA",
+  "Created": "2025-11-04T00:51:32.1672216Z",
+  "Updated": "2025-11-04T00:51:32.1672216Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.19.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

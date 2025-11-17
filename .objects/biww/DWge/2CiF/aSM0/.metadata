@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Telefone, nome de usuár…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "aSM0gW9adUGKbePoF09qJQ",
+  "Reference": "Q8kMT-eXZ0iX20FXGraQpg/aSM0gW9adUGKbePoF09qJQ",
+  "ParentRef": "Q8kMT-eXZ0iX20FXGraQpg/2CiFShOceESX-fH7pdwxiA",
+  "Created": "2025-11-04T00:50:28.3695886Z",
+  "Updated": "2025-11-04T00:50:28.3695886Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.19.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

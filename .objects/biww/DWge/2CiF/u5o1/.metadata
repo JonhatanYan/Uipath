@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Senha",
+  "Type": "Element",
+  "Id": "u5o1pikviUmSmEXJ50NnLA",
+  "Reference": "Q8kMT-eXZ0iX20FXGraQpg/u5o1pikviUmSmEXJ50NnLA",
+  "ParentRef": "Q8kMT-eXZ0iX20FXGraQpg/2CiFShOceESX-fH7pdwxiA",
+  "Created": "2025-11-04T00:48:48.7068931Z",
+  "Updated": "2025-11-04T00:48:48.7068931Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.19.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

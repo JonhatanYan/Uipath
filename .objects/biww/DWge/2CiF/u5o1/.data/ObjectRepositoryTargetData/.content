@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="qpPvDSjkZU6tOGG81EfwkA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="instagram.com" CVScreenId="c7c6e0b2-3cfb-4a5c-ac77-a47b94c10b3c" CvElementArea="1113, 535, 275, 36" CvTextArea="1231, 546, 40, 13" CvTextArgument="Entrar" CvType="Button" DesignTimeRectangle="1117, 538, 270, 32" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;section&amp;gt;main&amp;gt;article&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;form&amp;gt;div&amp;gt;div' parentid='loginForm' tag='DIV' visibleinnertext='Entrar' /&gt;" Guid="7873873c-de68-4d52-aa4e-e927be1273ea" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Instagram' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="c7c6e0b2-3cfb-4a5c-ac77-a47b94c10b3c" CvElementArea="1114, 484, 275, 40" CvType="InputBox" DesignTimeRectangle="1126, 487, 252, 36" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Senha' tag='SPAN' type='' class='_aa4a' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Senha' /&gt;" Guid="ed48c471-9c66-4c84-9d1c-be6390803fcc" SearchSteps="FuzzySelector, CV" />
+          <Target CVScreenId="c7c6e0b2-3cfb-4a5c-ac77-a47b94c10b3c" CvTextArea="1194, 639, 147, 12" CvTextArgument="Entrar com O Facebook" CvType="Text" DesignTimeRectangle="1195, 637, 146, 18" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Entrar com o Facebook' tag='SPAN' type='' class='xvs91rp xwhw2v2 x173jzuc' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Entrar com o Facebook' /&gt;" Guid="e6a79924-542e-4f95-959e-e1db338b7992" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="ae07c1293f49d85cedeeac8f284f18e5.png" xmlns="">0DHcAfBpbY0iQ62DK31QRcw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
