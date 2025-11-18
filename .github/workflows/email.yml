@@ -20,6 +20,6 @@ jobs:
           username: ${{ secrets.MAIL_USERNAME }}
           password: ${{ secrets.MAIL_PASSWORD }}
           subject: "Novo commit no repositório UiPath"
-          to: "seuemail@gmail.com"
+          to: "jonhatanyan998@gmail.com"
           from: ${{ secrets.MAIL_USERNAME }}
           body: "Um novo commit foi realizado no repositório."
